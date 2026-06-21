@@ -1,7 +1,13 @@
 import streamlit as st
 import pickle
 from preprocess import cleanResume, cat_name
+import nltk
 
+nltk.download("punkt_tab")
+nltk.download("punkt")
+nltk.download("stopwords")
+nltk.download("wordnet")
+nltk.download("omw-1.4")
 #loading models
 
 lg = pickle.load(open('lg.pkl','rb'))
