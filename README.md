@@ -139,11 +139,11 @@ Predicted Resume Category
 
 ### Home Page
 
-> Add a screenshot here.
+> <img src="home.png" width="800">
 
 ### Prediction Result
 
-> Add a screenshot here.
+> <img src="prediction.png" width="800">
 
 ---
 
@@ -177,7 +177,7 @@ joblib
 **Boini Vamshi Krishna**
 
 - GitHub: https://github.com/BOINI-VAMSHIKRISHNA
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN/
+- LinkedIn: [https://www.linkedin.com/in/](https://www.linkedin.com/in/boini-vamshi-krishna-b88b33265/)
 
 ---
 
